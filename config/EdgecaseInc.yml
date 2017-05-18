@@ -1,12 +1,9 @@
 engineering:
   members:
     - bistacos
-    - cameroncooper
-    - chumster
     - derekgeeting
-    - jdbernard
     - jlgoolsbee
-    - wongasta
+    - JF90
 
   channel:
     "#engineering"
